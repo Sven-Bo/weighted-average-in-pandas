@@ -1,20 +1,25 @@
-IyBXZWlnaHRlZCBBdmVyYWdlIENhbGN1bGF0aW9uIGluIFBhbmRhcwoKVGhp
-cyB2aWRlbyBkZW1vbnN0cmF0ZXMgaG93IHRvIHBlcmZvcm0gYSB3ZWlnaHRl
-ZCBhdmVyYWdlIGNhbGN1bGF0aW9uIGluIFB5dGhvbiB1c2luZyB0aGUgcGFu
-ZGFzIGxpYnJhcnkuClRoZSBzY2VuYXJpbyBjb25zaWRlcnMgc3R1ZGVudHMg
-d2hvIGhhdmUgdGFrZW4gdGhyZWUgdGVzdHMgb3ZlciB0aGUgY291cnNlIG9m
-IGEgeWVhciwgZWFjaCBvZiB3aGljaCBpcyB3ZWlnaHRlZCBkaWZmZXJlbnRs
-eSBpbiB0ZXJtcyBvZiBpdHMgY29udHJpYnV0aW9uIHRvIHRoZSBvdmVyYWxs
-IGdyYWRlIGZvciB0aGUgeWVhci4KCiMjIERlbW8KV2lsbCBmb2xsb3cgc29v
-bi4uLgpbIVtZb3VUdWJlIFZpZGVvXShodHRwczovL2ltZy55b3V0dWJlLmNv
-bS92aS9aVF9obFpMWUh5US8wLmpwZyldKGh0dHBzOi8veW91dHUuYmUvWlRf
-aGxaTFlIeVEpCgoKCiMjIEF1dGhvcgoKLSBTdmVuIGZyb20gQ29kaW5nIElz
-IEZ1bgotIFlvdVR1YmU6IGh0dHBzOi8veW91dHViZS5jb20vYy9Db2RpbmdJ
-c0Z1bgotIFdlYnNpdGU6IGh0dHBzOi8vcHl0aG9uYW5kdmJhLmNvbQoKWyFb
-a28tZmldKGh0dHBzOi8va28tZmkuY29tL2ltZy9naXRodWJidXR0b25fc20u
-c3ZnKV0oaHR0cHM6Ly9rby1maS5jb20vWDdYNDdRMEVHKQoKIyMgRmVlZGJh
-Y2sKCklmIHlvdSBoYXZlIGFueSBmZWVkYmFjaywgcGxlYXNlIHJlYWNoIG91
-dCB0byBtZSBhdCBjb250YWN0QHB5dGhvbmFuZHZiYS5jb20KCiFbTG9nb10o
-aHR0cHM6Ly9jb250ZW50LnNjcmVlbmNhc3QuY29tL3VzZXJzL2p1YmJlbDMv
-Zm9sZGVycy9TbmFnaXQvbWVkaWEvYzQyZWEzNGItNDA1Ny00NzU0LTk2YjAt
-ZThlMDVjODY2YWZiLzA4LjE4LjIwMjEtMTkuNTYucG5nKQoK
+# Weighted Average Calculation in Pandas
+
+This video demonstrates how to perform a weighted average calculation in Python using the pandas library.
+The scenario considers students who have taken three tests over the course of a year, each of which is weighted differently in terms of its contribution to the overall grade for the year.
+
+## Demo
+Will follow soon...
+[![YouTube Video](https://img.youtube.com/vi/ZT_hlZLYHyQ/0.jpg)](https://youtu.be/ZT_hlZLYHyQ)
+
+
+
+## Author
+
+- Sven from Coding Is Fun
+- YouTube: https://youtube.com/c/CodingIsFun
+- Website: https://pythonandvba.com
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
+
+## Feedback
+
+If you have any feedback, please reach out to me at contact@pythonandvba.com
+
+![Logo](https://content.screencast.com/users/jubbel3/folders/Snagit/media/c42ea34b-4057-4754-96b0-e8e05c866afb/08.18.2021-19.56.png)
+
